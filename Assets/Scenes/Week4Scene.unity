@@ -151,6 +151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   redObj: {fileID: 1643319087406351131, guid: d1cb6e6fb81e5ff43a053a6c788f7553, type: 3}
+  blueObj: {fileID: 6226758242216150297, guid: 78431ba8b5fdbe647a7f923bc3a52574, type: 3}
 --- !u!4 &598407838
 Transform:
   m_ObjectHideFlags: 0
@@ -356,7 +357,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1153005952}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -5}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
